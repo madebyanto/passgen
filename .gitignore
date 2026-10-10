@@ -1,0 +1,26 @@
+# python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# local test or coverage artifacts
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# os files
+.DS_Store
+Thumbs.db
